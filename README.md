@@ -1,7 +1,7 @@
-BitcoinDashboard
+<b> BitcoinDashboard </b>
 
 
-<b> Visualizing the bitcoin Data by Day, Week and Hour </b> 
+ Visualizing the bitcoin Data by Day, Week and Hour 
 
 
 
