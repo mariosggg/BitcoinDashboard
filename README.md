@@ -1,7 +1,4 @@
-<b> BitcoinDashboard </b>
-
-
- Visualizing the bitcoin Data by Day, Week and Hour 
+This repo links to a collection of analyses on and representations of Bitcoin Data in r.
  
  
 
