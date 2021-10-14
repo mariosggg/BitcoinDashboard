@@ -1,5 +1,4 @@
-This repo links to a collection of analyses on and representations of Bitcoin Data in r.
- 
+This is an online repository of R codes and datasets for Bitcoin Data.Feel free to suggest improvements.
  
 
 
