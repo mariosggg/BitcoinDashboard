@@ -1,4 +1,4 @@
-<h3> Dashboard visualising by Day, Week and Hour the bitcoin data </h3>
+<h3> <center> Dashboard visualising by Day, Week and Hour the bitcoin data </center></h3>
 
 
 
