@@ -1,4 +1,4 @@
-##### Visualizing the bitcoin Data by Day, Week and Hour 
+Visualizing the bitcoin Data by Day, Week and Hour 
 
 
 
