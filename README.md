@@ -1,4 +1,4 @@
-BitcoinDashboard
+<b> BitcoinDashboard </b>
 
 
 
